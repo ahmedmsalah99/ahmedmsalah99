@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I’m a **Robotics Engineer** with a deep passion for **drones** and **autonomous systems** — machines that can **sense**, **decide**, and **act intelligently** in the real world. My work blends **control**, **perception**, and **AI** into unified systems that push the boundaries of what robots can do in the air.<br><br>
+I’m a **Robotics Engineer** with a deep passion for **drones** and **autonomous systems** that can **sense**, **decide**, and **act intelligently** in the real world. My work blends **control**, **perception**, and **AI** into unified systems that push the boundaries of what robots can do in the air.<br><br>
 
 I’m an **open-source contributor** to projects like **ArduPilot** and **YOLOS-CPP**, where I focus on improving **autonomy**, **perception**, and **embedded performance**. I enjoy working where **software meets hardware** — building **full-stack robotic systems** that operate reliably both in **simulation** and **reality**.<br><br>
 
@@ -16,7 +16,7 @@ Over time, I’ve gained solid experience in **Control**, **SLAM**, **VIO**, **R
 
 🌟 **LSD-SLAM for ROS2:** Created the **first ROS2-compatible version** of **LSD-SLAM** using **socket communication** within **Docker**, bridging **classic SLAM algorithms** with **modern ROS2 infrastructure**.<br><br>
 
-I’m driven by **curiosity** and a **vision of aerial robots** that operate **autonomously**, **intelligently**, and **safely**. My mission is to keep building systems that bring that vision closer to reality — **one algorithm, one flight, one breakthrough at a time.** 🚀
+I’m driven by **curiosity** and a **vision of aerial robots** that operate **autonomously**, **intelligently**, and **safely**. My mission is to keep building systems that bring that vision closer to reality **one algorithm, one flight, one breakthrough at a time.** 🚀
 
 
 ## 🌐 Socials:
