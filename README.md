@@ -1,16 +1,19 @@
-## Hi there 👋
+# 💫 About Me:
+🚀 About Me<br><br>I’m a Robotics Engineer with a deep passion for drones and autonomous systems — machines that can sense, decide, and act intelligently in the real world. My work blends control, perception, and AI into unified systems that push the boundaries of what robots can do in the air.<br><br>I’m an open-source contributor to projects like ArduPilot and YOLOS-CPP, where I focus on improving autonomy, perception, and embedded performance. I enjoy working where software meets hardware — building full-stack robotic systems that operate reliably both in simulation and reality.<br><br>Over time, I’ve gained solid experience in Control, SLAM, VIO, ROS/ROS2, AI, and embedded development using tools like Yocto, Docker, and Linux. I believe in the power of simulation for rapid innovation, and I frequently use PX4 and Gazebo to design, test, and refine autonomous behaviors before flight.<br><br>✨ Highlights<br><br>🌟 Tracking Drone Project: Built an integrated system combining ROS2, VIO, AI-based perception, tracking, simulation, and state estimation to achieve real-time autonomous target following.<br><br>🌟 R-VIO with Zero Velocity Update: Improved odometry accuracy by integrating advanced zero-motion detection and state correction techniques.<br><br>🌟 Swarm Formation & Leader–Follower Control: Designed and simulated cooperative UAV behaviors for dynamic and uncertain environments.<br><br>🌟 LSD-SLAM for ROS2: Created the first ROS2-compatible version of LSD-SLAM using socket communication within Docker, bridging classic SLAM algorithms with modern ROS2 infrastructure.<br><br>I’m driven by curiosity and a vision of aerial robots that operate autonomously, intelligently, and safely. My mission is to keep building systems that bring that vision closer to reality — one algorithm, one flight, one breakthrough at a time. 🚀
 
-<!--
-**ahmedmsalah99/ahmedmsalah99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ahmed-salah-a214a116a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:s-ahmed.msalah99@zewailcity.edu.eg) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=plastic&logo=unrealengine&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ahmedmsalah99&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ahmedmsalah99&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmsalah99&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=ahmedmsalah99&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
