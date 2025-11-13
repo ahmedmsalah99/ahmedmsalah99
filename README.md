@@ -2,7 +2,7 @@
 
 I’m a **Robotics Engineer** with a deep passion for **drones** and **autonomous systems** that can **sense**, **decide**, and **act intelligently** in the real world. My work blends **control**, **perception**, and **AI** into unified systems that push the boundaries of what robots can do in the air.<br><br>
 
-I’m an **open-source contributor** to projects like **ArduPilot** and **YOLOS-CPP**, where I focus on improving **autonomy**, **perception**, and **embedded performance**. I enjoy working where **software meets hardware** — building **full-stack robotic systems** that operate reliably both in **simulation** and **reality**.<br><br>
+I’m an **open-source contributor** to projects like **ArduPilot** and **YOLOS-CPP**, where I focus on improving **autonomy**, **perception**, and **embedded performance**. I enjoy working where **software meets hardware** building **full-stack robotic systems** that operate reliably both in **simulation** and **reality**.<br><br>
 
 Over time, I’ve gained solid experience in **Control**, **SLAM**, **VIO**, **ROS/ROS2**, **AI**, and **embedded development** using tools like **Yocto**, **Docker**, and **Linux**. I believe in the power of **simulation for rapid innovation**, and I frequently use **PX4** and **Gazebo** to **design**, **test**, and **refine autonomous behaviors** before flight.<br><br>
 
