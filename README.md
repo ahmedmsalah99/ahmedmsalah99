@@ -4,15 +4,15 @@ I’m a **Robotics Engineer** with a deep passion for **drones** and **autonomou
 
 I’m an **open-source contributor** to projects like **ArduPilot** and **YOLOS-CPP**, where I focus on improving **autonomy**, **perception**, and **embedded performance**. I enjoy working where **software meets hardware** building **full-stack robotic systems** that operate reliably both in **simulation** and **reality**.<br><br>
 
-Over time, I’ve gained solid experience in **Control**, **SLAM**, **VIO**, **ROS/ROS2**, **AI**, and **embedded development** using tools like **Yocto**, **Docker**, and **Linux**. I believe in the power of **simulation for rapid innovation**, and I frequently use **PX4** and **Gazebo** to **design**, **test**, and **refine autonomous behaviors** before flight.<br><br>
+Over time, I’ve gained solid experience in **Control**, **SLAM**, **VIO**, **ROS/ROS2**, **AI**, and **embedded development** using tools like **Yocto**, **Docker**, and **Linux**. I believe in the power of **simulation for rapid innovation**, and I frequently use **Ardupilot**/**PX4** and **Gazebo** to **design**, **test**, and **refine autonomous behaviors** before flight.<br><br>
 
 ### ✨ Highlights<br><br>
 
 🌟 **Tracking Drone Project:** Built an integrated system combining **ROS2**, **VIO**, **AI-based perception**, **tracking**, **simulation**, and **state estimation** to achieve **real-time autonomous target following**.<br><br>
 
-🌟 **R-VIO with Zero Velocity Update:** Improved **odometry accuracy** by integrating **advanced zero-motion detection** and **state correction techniques**.<br><br>
+🌟 **R-VIO with Zero Velocity Update and ros2 implementation:** Improved **odometry accuracy** by integrating **advanced zero-motion detection** and **state correction techniques**.<br><br>
 
-🌟 **Swarm Formation & Leader–Follower Control:** Designed and simulated **cooperative UAV behaviors** for **dynamic and uncertain environments**.<br><br>
+🌟 **Swarm Formation & Leader–Follower Control in PX4:** Designed and simulated **cooperative UAV behaviors** for **dynamic and uncertain environments**.<br><br>
 
 🌟 **LSD-SLAM for ROS2:** Created the **first ROS2-compatible version** of **LSD-SLAM** using **socket communication** within **Docker**, bridging **classic SLAM algorithms** with **modern ROS2 infrastructure**.<br><br>
 
